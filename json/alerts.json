@@ -1,0 +1,6 @@
+[
+    {"err":"Error message"},
+    {"warn":"Warn message"},
+    {"miss":"Something missiing"},
+    {"wrong":"Something went wrong"}
+]
