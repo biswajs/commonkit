@@ -1,0 +1,22 @@
+{
+  "name": "toolkitjs",
+  "version": "1.1.0",
+  "description": "Toolkitjs - a multipurpose npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biswajs/toolkitjs.git"
+  },
+  "keywords": [
+    "toolkitjs"
+  ],
+  "author": "Biswa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biswajs/toolkitjs/issues"
+  },
+  "homepage": "https://github.com/biswajs/toolkitjs#readme"
+}
